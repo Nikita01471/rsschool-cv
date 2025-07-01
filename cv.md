@@ -2,7 +2,7 @@
 
 ## Name
 
-![image](/home/nk/Documents/cv_pic.jpg)
+![image](/home/nk/Documents/rsschool-cv/cv_pic.jpg)
 Ivanov Nikita
 
 
