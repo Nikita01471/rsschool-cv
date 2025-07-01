@@ -2,7 +2,8 @@
 
 ## Name
 
-![alt text](https://github.com/nikita01471/rsschool-cv/blob/gh-pages/cv_pic.jpg|200)/
+![Photo](https://github.com/nikita01471/rsschool-cv/blob/gh-pages/cv_pic.jpg?raw=true)
+
 Ivanov Nikita
 
 
