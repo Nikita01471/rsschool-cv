@@ -2,7 +2,7 @@
 
 ## Name
 
-![image](/home/nk/Documents/rsschool-cv/cv_pic.jpg)
+![alt text](https://github.com/nikita01471/rsschool-cv/blob/gh-pages/cv_pic.jpg?raw=true)
 Ivanov Nikita
 
 
