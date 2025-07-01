@@ -10,7 +10,7 @@ Ivanov Nikita
 
 **tel**: +1-423-232-42-24\
 **email**: some_email@gamil.com\
-**discord**: Nike (nike #nike8993) *real one*
+**discord**: Nike (#nike8993) *real one!*
 
 ## About me
 
@@ -19,7 +19,7 @@ My name is Nikita. I'm only starting my journey in front-end development. I hope
 ## Skills
 
 Know some basic about:
-- ==Markdown==
+- <code> Markdown </code>
 - *js*
 - **HTML**
 
