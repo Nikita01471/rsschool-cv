@@ -43,12 +43,12 @@ return a * b
 
 ## Work experience
 
-No experience in IT company at the moment.
+No experience in IT company at the moment.\
 CV project for Rsschool - [link](https://github.com/Nikita01471/rsschool-cv/tree/gh-pages)
 
 ## Education
 
-- Higher engineering education;\
+- Higher engineering education;
 - JS/FE Pre-School 2025Q2 (in progress..).
 
 ## Languages
