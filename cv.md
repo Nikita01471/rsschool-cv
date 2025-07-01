@@ -10,7 +10,7 @@ Ivanov Nikita
 
 **tel**: +1-423-232-42-24\
 **email**: some_email@gamil.com\
-**discord**: Nike (nike #nike8993) *real one* \
+**discord**: Nike (nike #nike8993) *real one*
 
 ## About me
 
@@ -18,10 +18,10 @@ My name is Nikita. I'm only starting my journey in front-end development. I hope
 
 ## Skills
 
-Know some basic about:\
-- ==Markdown==\
-- *js*\
-- **HTML**\
+Know some basic about:
+- ==Markdown==
+- *js*
+- **HTML**
 
 ## Code 
 
@@ -43,7 +43,7 @@ return a * b
 
 ## Work experience
 
-No experience in IT company at the moment.\
+No experience in IT company at the moment.
 CV project for Rsschool - [link](https://github.com/Nikita01471/rsschool-cv/tree/gh-pages)
 
 ## Education
@@ -53,5 +53,5 @@ CV project for Rsschool - [link](https://github.com/Nikita01471/rsschool-cv/tree
 
 ## Languages
 
-1. Russia - Native\
+1. Russia - Native
 2. English - C1
